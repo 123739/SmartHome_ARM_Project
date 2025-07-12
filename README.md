@@ -40,6 +40,13 @@ In this simulation:
 - Understanding I/O interfacing with ARM LPC2138
 - Simulation of real-world sensors using Proteus
 - Project design using embedded systems principles
+
+## Author
+**Anwesha Rath**  
+Electrical Engineering  
+_GitHub: [@123739](https://github.com/123739)_
+
+If you found this useful, give the repo a ⭐️ and consider contributing improvements or variations!
 - Mapping environmental conditions to hardware responses
 
 ## Preview
